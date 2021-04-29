@@ -10,3 +10,5 @@ A predictive model using the data from cases in Germany. ARIMA (Autoregressive i
 * math
 * statsmodels
 * sklearn
+
+![](https://github.com/rjimpervious/covid_predictor/blob/main/images/corona_predictor.png)
